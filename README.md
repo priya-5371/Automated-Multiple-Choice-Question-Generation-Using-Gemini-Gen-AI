@@ -1,3 +1,6 @@
+![Work_Flow](https://github.com/user-attachments/assets/b24270cb-968a-4eb5-a4c7-b11339608e2a)
+
+
 **📜 Project Overview**
 
 This project aims to automatically generate Multiple-Choice Questions (MCQs) from textual content using Gemini Gen AI. It simplifies the task for educators by allowing them to input content in PDF, DOC, or TEXT formats, and the system will extract the text and generate relevant MCQs.
